@@ -4,11 +4,11 @@ export const App = () => {
   // return React.createElement("h1", null, "Hello, Sailesh Rokaya");
 
   return (
-    <div>
+    <>
       <NetflixSeries />
       <NetflixSeries />
       <NetflixSeries />
-    </div>
+    </>
   );
 };
 
